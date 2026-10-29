@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Interactive+Fiction-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Twine Free Installer** — Twine is a free, open-source tool for creating interactive, non-linear stories and hypertext fiction without programming. Works without internet access, no account required. Full offline installation.
+**💻 Twine Free Installer** — Twine is a free, open-source tool for creating interactive, non-linear stories and games without programming knowledge. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Twine
 
-Twine is a free, open-source tool for creating interactive, non-linear stories and hypertext fiction without programming. Used by game designers, educators, and writers, it exports self-contained HTML files that run in any web browser without installation.
+Twine is a free, open-source tool for creating interactive, non-linear stories and games without programming knowledge. Write stories as a visual map of connected passages with branching choices. Publish finished stories as self-contained HTML files that play in any web browser. Used by game designers, educators, and fiction writers, Twine has become the standard tool for interactive fiction and text-based game creation.
 
 ---
 
 ## ❌ Problem: Twine is hard to access
 
-- **Limited Multimedia** — Primarily text-based; adding images, audio, or video requires HTML/CSS knowledge
-- **Story Format Fragmentation** — Multiple incompatible story formats (Harlowe, Sugarcane, Chapbook) cause ecosystem fragmentation
-- **Scaling Complexity** — Large stories with many passages become difficult to navigate
-- **No Asset Management** — Media files must be managed and referenced manually
+- **Performance at Scale** — Very large stories with thousands of passages can become unwieldy
+- **Scripting Learning Curve** — Advanced conditional logic requires learning Twine's scripting syntax
+- **Asset Management** — Managing images and audio in Twine projects requires external tools
+- **Publishing** — Self-hosting or using itch.io required for sharing finished games
 
 ---
 
@@ -121,7 +121,7 @@ Twine is a free, open-source tool for creating interactive, non-linear stories a
 
 ---
 
-**Twine Free Installer** — Twine is a free, open-source tool for creating interactive, non-linear stories and hypertext fiction without programming. Install without internet connection today!
+**Twine Free Installer** — Twine is a free, open-source tool for creating interactive, non-linear stories and games without programming knowledge. Install without internet connection today!
 
 <div align="center">
 
